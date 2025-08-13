@@ -1,3 +1,3 @@
 # learning
 first git repository
-author sadiya
+author sadiya sultana
